@@ -7,10 +7,10 @@
 
 <br> there will be a script at some point to try to run this, will only support linux
 <br> yomininja used for ocr
-<br> antimicrox controller
-<br> warp, censorship
+<br> antimicrox controller, config is in repo
+<br> cloudflare warp, censorship
 <br> youtube blocker,
-<br>asbplayer, with chromium version
+<br>asbplayer, with chromium version [mining on linux]
 <br>https://github.com/macchrome/linchrome/releases
 <br> aw-qt to track everything on the computer
 <br> unhook for youtube triggers to be disabled
@@ -29,5 +29,7 @@
 }
 ```
 Auto reorder is important for this deck, since after each mining session it will update the list of words, depening on its freq Use
+
+
 
 
