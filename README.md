@@ -34,4 +34,5 @@ Auto reorder is important for this deck, since after each mining session it will
 Use chatgpt, combined with controller is insane
 
 
-
+# Additional ressources
+https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit?tab=t.0
