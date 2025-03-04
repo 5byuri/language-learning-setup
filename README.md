@@ -15,3 +15,8 @@
 <br> aw-qt to track everything on the computer
 <br> unhook for youtube triggers to be disabled
 <br> https://chromium.woolyss.com/ to be able to use the browser you need to have the supported codec, it should include all, you can either compile your own browser (good luck) or use the portable one and make a .desktop link [for debian/ubuntu https://github.com/macchrome/linchrome/releases]
+
+
+
+
+
