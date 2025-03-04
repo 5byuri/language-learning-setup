@@ -30,6 +30,8 @@
 ```
 Auto reorder is important for this deck, since after each mining session it will update the list of words, depening on its freq Use
 
+>Anki Terminator
+Use chatgpt, combined with controller is insane
 
 
 
