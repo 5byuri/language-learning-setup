@@ -12,3 +12,5 @@
 <br> youtube blocker,
 <br>asbplayer, with chromium version
 <br>https://github.com/macchrome/linchrome/releases
+<br> aw-qt to track everything on the computer
+<br> unhook for youtube triggers to be disabled
