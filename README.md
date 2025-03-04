@@ -6,3 +6,9 @@
 <bri> use Lapis, I have my own configuration in the Lapis repo.
 
 <br> there will be a script at some point to try to run this, will only support linux
+<br> yomininja used for ocr
+<br> antimicrox controller
+<br> warp, censorship
+<br> youtube blocker,
+<br>asbplayer, with chromium version
+<br>https://github.com/macchrome/linchrome/releases
