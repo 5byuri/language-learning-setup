@@ -17,6 +17,9 @@
 <br> https://chromium.woolyss.com/ to be able to use the browser you need to have the supported codec, it should include all, you can either compile your own browser (good luck) or use the portable one and make a .desktop link [for debian/ubuntu https://github.com/macchrome/linchrome/releases]
 <br> for the keyboard, its mozc with a japanese keyboard and and IME
 
+
+<br>for the future : Pseudo sudo
+
 # ANKI ADDONS
 ![image](https://github.com/user-attachments/assets/23f4c3dd-38c4-4ac9-9f23-24a44ccab37b)
 
